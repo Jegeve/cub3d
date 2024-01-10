@@ -12,7 +12,7 @@
 
 CC= cc
 CFLAGS= -Wall -Wextra -Werror
-RM= rm -rf
+RM= rm -r
 
 NAME= cub3D
 HEADER= cub_3_d.h
